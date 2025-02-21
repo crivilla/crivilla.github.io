@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Celia Rivilla
 subtitle: Empowering Healthcare with Data-Driven Insights
 ---
 
