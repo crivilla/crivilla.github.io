@@ -23,6 +23,8 @@ Healthcare generates an immense amount of data—from **electronic health record
 
 However, making sense of this information requires the right tools, methodologies, and expertise. That’s where *health data science* comes in.
 
+<br/>
+
 ---
 
 <br/>
@@ -44,6 +46,7 @@ In this space, I’ll be sharing insights on:
 - **Tools and techniques** for health data analysis  
 - **Industry trends**, **research highlights**, and **case studies**
 
+<br/>
 
 ---
 
@@ -70,6 +73,8 @@ For those interested in diving deeper into health data science, here are some va
 - **[NIH - National Library of Medicine](https://www.nlm.nih.gov/)**: A rich source of research articles, datasets, and information on clinical informatics.
 - **[HealthIT.gov](https://www.healthit.gov/)**: Offers valuable information on the use of technology to improve healthcare delivery.
 - **[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/)**: A free archive of biomedical and life sciences literature, a great resource for health-related research.
+
+<br/>
 
 ---
 
