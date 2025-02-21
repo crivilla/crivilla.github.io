@@ -14,4 +14,4 @@ subtitle: Health Engineer | Clinical Data Scientist
 - BI Specialist at GE Healthcare
 
 ### Skills
-`Python` `SQL` `ETL processes` `Spotfire`
+`Python` `SQL` `ETL processes` `Spotfire` `Power BI`
