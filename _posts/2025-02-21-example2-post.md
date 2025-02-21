@@ -23,8 +23,8 @@ Healthcare generates an immense amount of data—from **electronic health record
 
 However, making sense of this information requires the right tools, methodologies, and expertise. That’s where *health data science* comes in.
 
-<br/>
 ---
+
 <br/>
 
 By applying **statistical analysis**, **machine learning**, and **business intelligence** techniques, we can uncover patterns, predict trends, and improve decision-making across the healthcare ecosystem. Whether it’s:
@@ -44,8 +44,9 @@ In this space, I’ll be sharing insights on:
 - **Tools and techniques** for health data analysis  
 - **Industry trends**, **research highlights**, and **case studies**
 
-<br/>
+
 ---
+
 <br/>
 
 ### **Key Tools and Techniques in Health Data Science**
@@ -72,11 +73,14 @@ For those interested in diving deeper into health data science, here are some va
 
 ---
 
-I intend to contribute to the ongoing conversation on how data science can be used to drive positive change in healthcare. Whether you’re a fellow data scientist, a healthcare professional, or just someone interested in the field, I hope you find value in these discussions.  
-
 <br/>
 
+I intend to contribute to the ongoing conversation on how data science can be used to drive positive change in healthcare. Whether you’re a fellow data scientist, a healthcare professional, or just someone interested in the field, I hope you find value in these discussions.  
+
+
 Thanks for stopping by, and I look forward to sharing this journey with you!
+
+<br/>
 
 ![Network](/images/network_image.png){: .mx-auto.d-block :}
 
