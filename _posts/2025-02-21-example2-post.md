@@ -2,12 +2,10 @@
 layout: post
 title: Welcome to My Website
 subtitle: Exploring Health Data Science
-<!--gh-repo: daattali/beautiful-jekyll -->
-<!--gh-badge: [star, fork, follow] -->
 tags: [intro]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Celia Rivilla
 ---
 
 {: .box-note}
